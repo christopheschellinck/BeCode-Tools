@@ -9,6 +9,7 @@ Emre      | MS Windows 10.18362 Pro | Ubuntu 18.04.1 LTS | NO                   
 Orhan     | w10 pro                 | git bash           | no                     | Limetext                | 3.6   | No                  | 11/9/20 |
 Ankita    | Linux		    | Ubuntu		 | No			  | IntelliJ		    |       | No
 Selma     |MacOS Catalina |  Terminal 2.10 | - | - | - | -
+Christophe S | Linux | Ubuntu 18.04.5 LTS | - | Pycharm Community 2020.2 | 3.6 | No | 9/10/20
 
 ## Instructions
 First, you clone the repository to your local.
